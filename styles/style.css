@@ -84,8 +84,8 @@ ol {
 }
 
 .content__details {
- width: 399px;
- height: 534px;
+  width: 399px;
+  height: 534px;
 }
 
 .title {
@@ -200,7 +200,7 @@ ol {
 }
 
 .search-form__label {
-  align-items:center;
+  align-items: center;
   display: flex;
   width: fit-content;
   cursor: pointer;
@@ -325,7 +325,7 @@ ol {
   outline-offset: 1.7px;
 }
 
-.search-form__label:hover .search-form__label-text { 
+.search-form__label:hover .search-form__label-text {
   text-decoration: underline;
   text-underline-offset: 1px;
 }
